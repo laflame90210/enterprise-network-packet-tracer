@@ -50,7 +50,7 @@ This project strengthened my skills in VLSM planning, routing across multiple si
 
 ## Documentation scope
 
-The portfolio summary is based on the final technical report. A downloadable Packet Tracer file for this specific five-site project is not included in this repository.
+The portfolio summary is based on the final technical report. A downloadable Packet Tracer file for this specific five-site project is included in this repository.
 
 Some course configurations use legacy technologies, including WEP and PAP. They are recorded as part of the assignment, not presented as recommended production security settings. VPN connectivity appeared in the project requirements; it is not claimed here as independently validated without a specific supporting test result.
 
