@@ -54,7 +54,7 @@ The portfolio summary is based on the final technical report. A downloadable Pac
 
 Some course configurations use legacy technologies, including WEP and PAP. They are recorded as part of the assignment, not presented as recommended production security settings. VPN connectivity appeared in the project requirements; it is not claimed here as independently validated without a specific supporting test result.
 
-See also my earlier [CCNA and CCNA Security Packet Tracer projects](https://github.com/laflame90210/cisco-networking-labs).
+
 
 
 ---
